@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\migrations\\20240329235717_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:migrations\\20240329235717_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\enums\\sallesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\enums\\sallesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:06:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
+              "RelativeToolTip": "Data\\SeedingService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv0UAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:05:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240329235717_OtherEntities.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Migrations\\20240329235717_OtherEntities.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240329235717_OtherEntities.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Migrations\\20240329235717_OtherEntities.cs",
+              "RelativeToolTip": "Migrations\\20240329235717_OtherEntities.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:57:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesWebVContext.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
+              "RelativeDocumentMoniker": "Data\\SalesWebVContext.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
+              "RelativeToolTip": "Data\\SalesWebVContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:55:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\Department.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
+              "RelativeToolTip": "Models\\ViewModels\\Department.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA6wBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:32:07.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SallesStatus.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Enums\\SallesStatus.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\Enums\\SallesStatus.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Enums\\SallesStatus.cs",
+              "RelativeToolTip": "Models\\ViewModels\\Enums\\SallesStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:28:33.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SallesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SallesRecord.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SallesRecord.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:27:22.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Seller.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\Seller.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Seller.cs",
+              "RelativeToolTip": "Models\\ViewModels\\Seller.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:24:04.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
