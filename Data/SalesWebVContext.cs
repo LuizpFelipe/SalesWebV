@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using SalesWebV.Models.ViewModels;
 
 namespace SalesWebV.Data
 {
-    public class SalesWebVContext : DbContext
+	public class SalesWebVContext : DbContext
     {
         public SalesWebVContext (DbContextOptions<SalesWebVContext> options)
             : base(options)

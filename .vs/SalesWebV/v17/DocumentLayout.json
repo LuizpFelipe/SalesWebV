@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\views\\sallesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:views\\sallesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\migrations\\20240329235717_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:migrations\\20240329235717_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\services\\sallesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:services\\sallesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\sallesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\views\\sallesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:views\\sallesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\enums\\sallesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:models\\viewmodels\\enums\\sallesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\controllers\\sallesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:controllers\\sallesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\views\\sallesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:views\\sallesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:data\\saleswebvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\services\\exception\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:services\\exception\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|solutionrelative:views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2711B9D-89C5-4F0B-BEB9-F94B2EC24AEE}|SalesWebV.csproj|c:\\users\\luizf\\source\\repos\\saleswebv\\models\\viewmodels\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,115 +78,228 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\SellerService.cs",
+              "RelativeToolTip": "Services\\SellerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:02:37.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\Department.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
+              "RelativeToolTip": "Models\\ViewModels\\Department.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:21:06.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupingSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\GroupingSearch.cshtml",
+              "RelativeDocumentMoniker": "Views\\SallesRecords\\GroupingSearch.cshtml",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\GroupingSearch.cshtml",
+              "RelativeToolTip": "Views\\SallesRecords\\GroupingSearch.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T13:12:33.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SallesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SallesRecord.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SallesRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:44:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SallesRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\SallesRecordService.cs",
+              "RelativeDocumentMoniker": "Services\\SallesRecordService.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\SallesRecordService.cs",
+              "RelativeToolTip": "Services\\SallesRecordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:56:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\SimpleSearch.cshtml",
+              "RelativeDocumentMoniker": "Views\\SallesRecords\\SimpleSearch.cshtml",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\SimpleSearch.cshtml",
+              "RelativeToolTip": "Views\\SallesRecords\\SimpleSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T22:50:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
+              "RelativeToolTip": "Data\\SeedingService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwDQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:18:19.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SallesRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Controllers\\SallesRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SallesRecordsController.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Controllers\\SallesRecordsController.cs",
+              "RelativeToolTip": "Controllers\\SallesRecordsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:34:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SallesRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\SallesRecords\\Index.cshtml",
+              "RelativeToolTip": "Views\\SallesRecords\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T22:36:48.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:24:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesWebVContext.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
+              "RelativeDocumentMoniker": "Data\\SalesWebVContext.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
+              "RelativeToolTip": "Data\\SalesWebVContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:02:58.13Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAAnAAAA",
+              "DocumentIndex": 11,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "Controllers\\SellersController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwEMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T00:06:17.517Z",
+              "WhenOpened": "2024-04-12T01:01:54.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "Data\\SeedingService.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SeedingService.cs",
-              "RelativeToolTip": "Data\\SeedingService.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAADwv0UAAAA3AAAA",
+              "DocumentIndex": 13,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T00:05:59.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T00:50:03.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240329235717_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Migrations\\20240329235717_OtherEntities.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240329235717_OtherEntities.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Migrations\\20240329235717_OtherEntities.cs",
-              "RelativeToolTip": "Migrations\\20240329235717_OtherEntities.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "IntegrityException.cs",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\Exception\\IntegrityException.cs",
+              "RelativeDocumentMoniker": "Services\\Exception\\IntegrityException.cs",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Services\\Exception\\IntegrityException.cs",
+              "RelativeToolTip": "Services\\Exception\\IntegrityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:57:18.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T00:46:13.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SalesWebVContext.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
-              "RelativeDocumentMoniker": "Data\\SalesWebVContext.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Data\\SalesWebVContext.cs",
-              "RelativeToolTip": "Data\\SalesWebVContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:55:17.432Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:59:53.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\Department.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Department.cs",
-              "RelativeToolTip": "Models\\ViewModels\\Department.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA6wBwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:32:07.307Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sellers\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:54:06.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SallesStatus.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Enums\\SallesStatus.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\Enums\\SallesStatus.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Enums\\SallesStatus.cs",
-              "RelativeToolTip": "Models\\ViewModels\\Enums\\SallesStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:28:33.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SallesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\SallesRecord.cs",
-              "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\SallesRecord.cs",
-              "RelativeToolTip": "Models\\ViewModels\\SallesRecord.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswA4AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:27:22.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Seller.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\Seller.cs",
               "ToolTip": "C:\\Users\\luizf\\source\\repos\\SalesWebV\\Models\\ViewModels\\Seller.cs",
               "RelativeToolTip": "Models\\ViewModels\\Seller.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAkwCoAAAAHAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T23:24:04.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T01:28:15.059Z"
             }
           ]
         }

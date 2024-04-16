@@ -179,3 +179,12 @@ C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Departments\D
 C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\SalesWebV.sourcelink.json
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\SallesRecords\Index.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\SallesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\luizf\source\repos\SalesWebV\obj\Debug\net472\Razor\Views\SallesRecords\SimpleSearch.cshtml.g.cs

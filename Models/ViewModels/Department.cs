@@ -19,14 +19,14 @@ namespace SalesWebV.Models.ViewModels
             Name = name;
         }
 
-        public void addSallers(Seller seller)
+        public void AddSallers(Seller seller)
         {
             Sellers.Add(seller);
         }
 
-        public double totalSellers(DateTime initial, DateTime final)
+        public double TotalSellers(DateTime initial, DateTime final)
         {
-            return Sellers.Sum(seller => seller.totalSales(initial, final));
+            return Sellers.Sum(seller => seller.TotalSales(initial, final));
         }
     }
 }
